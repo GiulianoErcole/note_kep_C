@@ -1,6 +1,6 @@
  📝 note_kep_C
 
-A simple and secure terminal-based note-taking tool written in C. Notes are timestamped, XOR-encrypted, and stored in a text file. You can read, search, and append notes from the command line — lightweight and minimal.
+A simple and secure terminal-based note-taking tool written in C. Notes are timestamped, XOR-encrypted, and stored in a text file. You can read, search, and append notes from the command line.
 
 ---
 
